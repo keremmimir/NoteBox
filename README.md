@@ -5,17 +5,12 @@ NoteBox basit ve kullanışlı bir not alma uygulamasıdır. Kullanıcıların h
 ## Kullanılan teknolojiler:
 
 * Kotlin 
-
-* MVVM 
-
+* MVVM
+* LiveData
 * Room
-
-* Navigation
-
+* Navigation Components
 * Hilt
-
 * Coroutines
-
 * ViewPager
 
 ## Uygulamaya ait görseller:
