@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NoteBox</string>
+    <string name="notebox">NoteBox</string>
+    <string name="title">Basit Not Uygulaması</string>
+    <string name="descraption">Bu not uygulaması, kullanıcıların basit bir şekilde notlar almasını, kaydetmesini ve daha sonra bu notları görüntüleyip düzenlemesini sağlar. Uygulama, kullanıcılara yeni not oluşturma, mevcut notları güncelleme ve gereksiz notları silme imkanı tanır. Ayrıca, kullanıcılar aldıkları notları tarih ve saat bilgisiyle kaydedebilir ve kolayca yönetebilirler.</string>
+    <string name="description_hint">Description</string>
+    <string name="title_hint">Title</string>
+    <string name="onboarding1_text">Not uygulamamız, kullanıcıların günlük yaşamlarındaki önemli bilgileri, görevleri veya hatırlatmaları hızlı ve kolay bir şekilde kaydetmelerine yardımcı olur.</string>
+    <string name="onboarding2_text">Uygulama, notlarınızı düzenlemenizi, güncellemenizi ve ihtiyacınıza göre silmenizi sağlar.</string>
+    <string name="onboarding3_text">Basit ve kullanıcı dostu arayüzü ile her türlü notunuzu zahmetsizce yönetebilirsiniz.</string>
+    <string name="ileri">İLERİ</string>
+    <string name="geri">GERİ</string>
+</resources>
